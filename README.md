@@ -36,6 +36,7 @@ border-radius: 15px;
 ![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMapsAPI-000?&logo=Google)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 ![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP)
+![AUDACITY](https://img.shields.io/badge/-Audacity-000?&logo=Audacity)
 
 ### Full Stack Projects
 
