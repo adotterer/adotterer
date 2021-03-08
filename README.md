@@ -29,7 +29,10 @@ border-radius: 15px;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
+![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMapsAPI-000?&logo=Google)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP)
 
 ### Full Stack Projects
 
