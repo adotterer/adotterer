@@ -25,6 +25,7 @@ border-radius: 15px;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
 ![PostGres](https://img.shields.io/badge/-PostGRES-000?&logo=PostGRES)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
