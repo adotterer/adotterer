@@ -42,12 +42,12 @@ border-radius: 15px;
 
 <div style="
 width: 100%;
+align:center;
 margin-top: 25px;
 display: flex;
 flex-direction: row;
 justify-content: space-around;
 align-items: center;
-border: 1px solid red;
 ">
 
 [![Linkedin](./linkedin_click.png)](https://www.linkedin.com/in/andrew-dotterer-6338aa97/)
