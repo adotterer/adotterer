@@ -40,7 +40,9 @@ border-radius: 15px;
 
 </div>
 
-<div style="
+<div
+align="center"
+style="
 width: 100%;
 align:center;
 margin-top: 25px;
