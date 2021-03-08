@@ -6,6 +6,12 @@
 
 </div>
 
+<div style="
+border: 1px solid lightgrey;
+padding: 10px;
+border-radius: 15px;
+">
+
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adotterer?tab=repositories&q=&type=&language=python)
@@ -25,6 +31,31 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
+### Full Stack Projects
+
+[![GreenGrab](https://img.shields.io/badge/-🌱%20Green%20Grab-000?)](https://greengrab.herokuapp.com/)
+[![FidoFinder](https://img.shields.io/badge/-🐶%20FidoFinderApp-000?)](https://fidofinderapp.herokuapp.com/)
+[![CollegeBnB](https://img.shields.io/badge/-🎓%20CollegeBnB-000?)](https://collegebnb1.herokuapp.com/)
+[![JavaScriptJungle](https://img.shields.io/badge/-<🌴/>%20JavaScript%20Jungle-000?)](https://jsjredux.herokuapp.com/)
+
+</div>
+
+<div style="
+width: 100%;
+margin-top: 25px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+border: 1px solid red;
+">
+
+[![Linkedin](./linkedin_click.png)](https://www.linkedin.com/in/andrew-dotterer-6338aa97/)
+
+[![Email](./email_click.png)](mailto:adotterer@gmail.com)
+
+</div>
+
 <!--
 **adotterer/adotterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +69,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
