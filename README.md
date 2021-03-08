@@ -47,7 +47,7 @@ width: 100%;
 align:center;
 margin-top: 25px;
 display: flex;
-flex-direction: row;
+flex-direction: column;
 justify-content: space-around;
 align-items: center;
 ">
