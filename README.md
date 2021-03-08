@@ -1,6 +1,10 @@
+<div align="center">
+
 [![Header](./github_top.png)](https://adotterer.github.io/)
 
 [![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=adotterer&hide=issues,contribs&text_color=111&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a,52fa5a,4dfcff,c64dff&theme=monokai)](https://github.com/adotterer/github-readme-stats)
+
+</div>
 
 ### Languages
 
