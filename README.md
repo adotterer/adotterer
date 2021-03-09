@@ -16,7 +16,9 @@ border-radius: 15px;
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adotterer?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adotterer?tab=repositories&q=&type=&language=javascript)
-[![HTML5](https://img.shields.io/badge/-HTML-000?&logo=htmnl&logoColor=blueviolet)](https://github.com/adotterer?tab=repositories&q=&type=&language=html)[![CSS](https://img.shields.io/badge/-CSS-001?&logo=CSS&logoColor=fffc4d)](https://github.com/adotterer?tab=repositories&q=&type=&language=css)
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5%20-61DAFB?style=flat-square&logo=HTML5&logoColor=white&color=blue"/>
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3%20-61DAFB?style=flat-square&logo=CSS3&logoColor=white&color=brightgreen"/>
+
 
 ### Technologies
 
