@@ -62,7 +62,7 @@ justify-content: space-around;
 align-items: center;
 ">
 
-[![Linkedin](./linkedin_click.png)](https://www.linkedin.com/in/andrew-dotterer-6338aa97/)
+[![Linkedin](./linkedin_click.png)](www.linkedin.com/in/adotterer)
 
 [![Email](./email_click.png)](mailto:adotterer@gmail.com)
 
