@@ -46,7 +46,7 @@ border-radius: 15px;
 [![GreenGrab](https://img.shields.io/badge/-🌱%20Green%20Grab-000?)](https://greengrab.herokuapp.com/)
 [![FidoFinder](https://img.shields.io/badge/-🐶%20FidoFinderApp-000?)](https://fidofinderapp.herokuapp.com/)
 [![CollegeBnB](https://img.shields.io/badge/-🎓%20CollegeBnB-000?)](https://collegebnb1.herokuapp.com/)
-[![JavaScriptJungle](https://img.shields.io/badge/-<🌴/>%20JavaScript%20Jungle-000?)](https://jsjredux.herokuapp.com/)
+[![JavaScriptJungle](https://img.shields.io/badge/-<🌴/>%20JavaScript%20Jungle-000?)](https://jsjungle.herokuapp.com/)
 
 </div>
 
