@@ -2,7 +2,7 @@
 
 [![Header](./github_top.png)](https://adotterer.github.io/)
 
-[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=adotterer&hide=issues,contribs&text_color=111&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a,52fa5a,4dfcff,c64dff&theme=monokai)](https://github.com/adotterer/github-readme-stats)
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=adotterer&hide=issues,contribs&text_color=111&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a,52fa5a,4dfcff,c64dff&theme=monokai)
 
 </div>
 
@@ -16,7 +16,9 @@ border-radius: 15px;
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adotterer?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adotterer?tab=repositories&q=&type=&language=javascript)
-[![HTML5](https://img.shields.io/badge/-HTML-000?&logo=htmnl&logoColor=blueviolet)](https://github.com/adotterer?tab=repositories&q=&type=&language=html)[![CSS](https://img.shields.io/badge/-CSS-001?&logo=CSS&logoColor=fffc4d)](https://github.com/adotterer?tab=repositories&q=&type=&language=css)
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5%20-61DAFB?style=flat-square&logo=HTML5&logoColor=red&color=black"/>
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3%20-61DAFB?style=flat-square&logo=CSS3&logoColor=green&color=black"/>
+
 
 ### Technologies
 
@@ -44,7 +46,7 @@ border-radius: 15px;
 [![GreenGrab](https://img.shields.io/badge/-🌱%20Green%20Grab-000?)](https://greengrab.herokuapp.com/)
 [![FidoFinder](https://img.shields.io/badge/-🐶%20FidoFinderApp-000?)](https://fidofinderapp.herokuapp.com/)
 [![CollegeBnB](https://img.shields.io/badge/-🎓%20CollegeBnB-000?)](https://collegebnb1.herokuapp.com/)
-[![JavaScriptJungle](https://img.shields.io/badge/-<🌴/>%20JavaScript%20Jungle-000?)](https://jsjredux.herokuapp.com/)
+[![JavaScriptJungle](https://img.shields.io/badge/-<🌴/>%20JavaScript%20Jungle-000?)](https://jsjungle.herokuapp.com/)
 
 </div>
 
@@ -60,7 +62,7 @@ justify-content: space-around;
 align-items: center;
 ">
 
-[![Linkedin](./linkedin_click.png)](https://www.linkedin.com/in/andrew-dotterer-6338aa97/)
+[![Linkedin](./linkedin_click.png)](https://www.linkedin.com/in/adotterer)
 
 [![Email](./email_click.png)](mailto:adotterer@gmail.com)
 
