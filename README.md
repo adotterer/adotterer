@@ -66,7 +66,7 @@ align-items: center;
 
 [![Email](./email_click.png)](mailto:adotterer@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adotterer)](https://github.com/adotterer/github-readme-stats&text_color=111&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a,52fa5a,4dfcff,c64dff&theme=monokai)
+
 
 </div>
 
