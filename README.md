@@ -21,6 +21,7 @@ border-radius: 15px;
 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5%20-61DAFB?style=flat-square&logo=HTML5&logoColor=red&color=black"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3%20-61DAFB?style=flat-square&logo=CSS3&logoColor=green&color=black"/>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
