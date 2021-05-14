@@ -16,12 +16,11 @@ border-radius: 15px;
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adotterer?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adotterer?tab=repositories&q=&type=&language=javascript)
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5%20-61DAFB?style=flat-square&logo=HTML5&logoColor=red&color=black"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3%20-61DAFB?style=flat-square&logo=CSS3&logoColor=green&color=black"/>
-
 
 ### Technologies
 
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5%20-61DAFB?style=flat-square&logo=HTML5&logoColor=red&color=black"/>
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3%20-61DAFB?style=flat-square&logo=CSS3&logoColor=green&color=black"/>
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express.js-000?&logo=express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -38,6 +37,7 @@ border-radius: 15px;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
 ![GoogleMapsAPI](https://img.shields.io/badge/-GoogleMapsAPI-000?&logo=Google)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![Adobe Suite](https://img.shields.io/badge/-adobe-000?&logo=Adobe)
 ![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP)
 ![AUDACITY](https://img.shields.io/badge/-Audacity-000?&logo=Audacity)
 
