@@ -40,7 +40,6 @@ border-radius: 15px;
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 ![Adobe Suite](https://img.shields.io/badge/-adobe-000?&logo=Adobe)
 ![GIMP](https://img.shields.io/badge/-GIMP-000?&logo=GIMP)
-![AUDACITY](https://img.shields.io/badge/-Audacity-000?&logo=Audacity)
 
 ### Full Stack Projects
 
