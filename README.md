@@ -16,7 +16,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 
 - 👨🏽‍💻 I’m currently a Front End Developer at Overdose.Digital;
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his;
 - 🌱 Right now I'm learning Next.js and AWS;
 - 🐶 I’m probably somewhere with my Boston Terrier Rosie rn;
 - 🎶 Fun-Fact: I am a classically trained oboist;
