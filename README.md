@@ -34,12 +34,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7649BB)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express.js-000?&logo=express&logoColor=green)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=653399)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7649BB)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku&logoColor=79579F)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Adobe Suite](https://img.shields.io/badge/-adobe-000?&logo=Adobe&logoColor=red)
+![Adobe Suite](https://img.shields.io/badge/-Adobe-000?&logo=Adobe&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=lightblue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=05E560)
 
