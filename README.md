@@ -30,6 +30,8 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=JavaScript&logoColor=blue)](https://github.com/adotterer?tab=repositories&q=&type=&language=typescript)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adotterer?tab=repositories&q=&type=&language=python)
 [![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=red)](https://github.com/adotterer?tab=repositories&q=&type=&language=swift)
+![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -40,8 +42,6 @@
 ![Adobe Suite](https://img.shields.io/badge/-adobe-000?&logo=Adobe&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=lightblue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=05E560)
-![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=red)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
