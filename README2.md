@@ -18,13 +18,11 @@
 <!-- Any image aligned to the right. Beware the width -->
 
 - 👨🏽‍💻 I’m currently a Front End Developer at Overdose.Digital;
-- 😄 Pronouns: he/him/his
 - 🌱 Right now I'm learning Next.js and AWS;
 - 🐶 I’m probably somewhere with my Boston Terrier Rosie rn;
-- 🎶 Fun-Fact: I am a trained classical oboist;
-- 💬 I'm happy to chat about pivoting to a tech career;
+- 🎶 Fun-Fact: I have a degree in oboe performance;
+- 💬 I'm happy to chat about switching into a tech career;
 - 📫 How to reach me: adotterer@gmail.com || [LinkedIn](https://www.linkedin.com/in/adotterer/);
-<!-- - 👯 I’m looking to collaborate on ... -->
 
 **Languages and Tools:**
 
@@ -58,5 +56,3 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
   <a href="https://www.buymeacoffee.com/adotterer" target="_blank">
 <img align="left" width="18%" alt="Buy me a coffee" src="./support-buy-coffee.png"/></a>
-
-<!-- [![HitCount](https://hits.dwyl.com/adotterer/adotterer/adotterer.svg?style=flat-square)](http://hits.dwyl.com/adotterer/adotterer/adotterer) -->
