@@ -19,7 +19,7 @@
 - 😄 Pronouns: he/him/his
 - 🌱 Right now I'm learning Next.js and AWS;
 - 🐶 I’m probably somewhere with my Boston Terrier Rosie rn;
-- 🎶 Fun-Fact: I am a trained classical oboist;
+- 🎶 Fun-Fact: I am a classically trained oboist;
 - 💬 I'm happy to chat about pivoting to a tech career;
 - 📫 How to reach me: adotterer@gmail.com || [LinkedIn](https://www.linkedin.com/in/adotterer/);
 <!-- - 👯 I’m looking to collaborate on ... -->
