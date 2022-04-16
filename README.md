@@ -1,7 +1,5 @@
 ## Hi, I'm Andrew, a Developer💫 from Seattle.
 
----
-
 <img width="40%" align="right" alt="Github" src="./seattle_vector_transparent.png" /></a>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adotterer)
