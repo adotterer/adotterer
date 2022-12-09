@@ -1,6 +1,5 @@
-## Hi, I'm Andrew, a Developer💫 from Seattle.
+## Hi, I'm Andrew, a Developer💫
 
-<img width="40%" align="right" alt="Github" src="./seattle_vector_transparent.png" /></a>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adotterer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adotterer/)
@@ -19,7 +18,6 @@
 - 😄 Pronouns: he/him/his;
 - 🌱 Right now I'm learning Next.js and AWS;
 - 🐶 I’m probably somewhere with my Boston Terrier Rosie rn;
-- 🪴 Currently I'm obessed with collecting too many succulents;
 - 🎶 Fun-Fact: I am a classically trained oboist;
 - 💬 I'm happy to chat about pivoting to a tech career;
 - 📫 How to reach me: adotterer@gmail.com || [LinkedIn](https://www.linkedin.com/in/adotterer/);
