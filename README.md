@@ -1,6 +1,5 @@
 ## Hi, I'm Andrew, a Developer💫
 
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adotterer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adotterer/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/frenchton.rosie/)
@@ -10,17 +9,17 @@
 
 <!-- Talking about you -->
 
-**Talking about Personal Stuffs:**
+<!-- **Talking about Personal Stuffs:** -->
 
 <!-- Any image aligned to the right. Beware the width -->
 
-- 👨🏽‍💻 I’m currently a Front End Developer at Overdose.Digital;
+<!-- - 👨🏽‍💻 I’m currently a Front End Developer at Overdose.Digital;
 - 😄 Pronouns: he/him/his;
 - 🌱 Right now I'm learning Next.js and AWS;
 - 🐶 I’m probably somewhere with my Boston Terrier Rosie rn;
 - 🎶 Fun-Fact: I am a classically trained oboist;
 - 💬 I'm happy to chat about pivoting to a tech career;
-- 📫 How to reach me: adotterer@gmail.com || [LinkedIn](https://www.linkedin.com/in/adotterer/);
+- 📫 How to reach me: adotterer@gmail.com || [LinkedIn](https://www.linkedin.com/in/adotterer/); -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 **Languages and Tools:**
@@ -31,7 +30,7 @@
 [![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=red)](https://github.com/adotterer?tab=repositories&q=&type=&language=swift)
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)
-
+![Nextjs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7649BB)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
