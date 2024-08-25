@@ -54,6 +54,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img align="right" alt="ViewCount" src="https://views.whatilearened.today/views/github/adotterer/adotterer.svg" />
 
   <a href="https://www.buymeacoffee.com/adotterer" target="_blank">
-<img align="left" width="18%" alt="Buy me a coffee" src="./support-buy-coffee.png"/></a>
 
 <!-- [![HitCount](https://hits.dwyl.com/adotterer/adotterer/adotterer.svg?style=flat-square)](http://hits.dwyl.com/adotterer/adotterer/adotterer) -->
